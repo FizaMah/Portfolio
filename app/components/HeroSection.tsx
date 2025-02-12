@@ -13,7 +13,7 @@ const HeroSection: React.FC = () => {
       {/* Text Section */}
       <div className="w-full text-center md:text-left mb-6 md:mb-0">
         <h1 className="text-3xl md:text-5xl font-bold">
-          Hi, my name is Priyanshu Gupta
+          Hi, my name is Fiza
         </h1>
         <p className="mt-4 text-base md:text-xl text-zinc-600">
           I’m a passionate software developer with expertise in building
@@ -25,7 +25,7 @@ const HeroSection: React.FC = () => {
         {/* <button className="btn btn-primary mt-5 flex items-center">
           Resume <IconDownload />
         </button> */}
-        <a href={resume} download="Priyanshu_Gupta_Resume.pdf">
+        <a href={resume} download="Fiza Mahmood CV 2025.pdf">
           <button
             className="bg-black dark:bg-zinc-50 text-center w-48 rounded-2xl h-14 relative text-white dark:text-black text-xl font-semibold group mt-5"
             type="button"
